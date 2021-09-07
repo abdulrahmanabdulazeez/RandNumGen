@@ -34,10 +34,4 @@ int main (){
 
 return 0;
 }
-string AnyProgrammer;
-string unRelated= "posts anything unrelated to programming";
-string SLAP;
 
-If (AnyProgrammer == unRelated){
-return SLAP;
-}😜😎
